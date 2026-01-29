@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QuickNotes</string>
+    <string name="add_note">Add Note</string>
+    <string name="save_note">Save Note</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_content">Note Content</string>
+    <string name="title_hint">Enter note title</string>
+    <string name="content_hint">Enter note content</string>
+    <string name="empty_notes">No notes yet. Tap + to add a note!</string>
+    <string name="note_saved">Note saved successfully!</string>
+    <string name="error_saving">Error saving note. Please try again.</string>
+    <string name="title_required">Title is required</string>
+    <string name="content_required">Content is required</string>
+</resources>
